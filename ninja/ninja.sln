@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ninja.CSharp", "ninja.CSharp.csproj", "{540BA85B-49FA-8A1B-3AB3-327B9AEFFEF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ninja.CSharp.Plugins", "ninja.CSharp.Plugins.csproj", "{A4CC2FE6-903A-3C0E-7CB2-4E8C274E7836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540BA85B-49FA-8A1B-3AB3-327B9AEFFEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540BA85B-49FA-8A1B-3AB3-327B9AEFFEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540BA85B-49FA-8A1B-3AB3-327B9AEFFEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540BA85B-49FA-8A1B-3AB3-327B9AEFFEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CC2FE6-903A-3C0E-7CB2-4E8C274E7836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CC2FE6-903A-3C0E-7CB2-4E8C274E7836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CC2FE6-903A-3C0E-7CB2-4E8C274E7836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CC2FE6-903A-3C0E-7CB2-4E8C274E7836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
